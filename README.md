@@ -23,3 +23,10 @@ Copy the path using pwd
   
 ### Access the Notebooks (use the token provided by Jupyter):
 http://localhost:8888/
+
+### Download the data sets into project folder:
+	wget https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/download/train.7z
+	wget https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/download/test.7z
+	wget https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/download/sample_submission.7z
+
+Extract files into project folder.
